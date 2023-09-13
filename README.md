@@ -1,5 +1,6 @@
-# notes_app wit Getx 
+# notes_app wit Getx and Sqflite
 - you cand add notes daily or weakly or monthly
+- this notes saved on sqflite
 - you can delte task and make it completed
 - you can set start and end time of task
 
